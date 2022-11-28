@@ -1,0 +1,19 @@
+{
+	"food": {
+		"fruits": [
+			"apple",
+			"orange"
+		],
+		"vegetables": [
+			{
+				"veggieName": "peas",
+				"veggieLike": false
+			},
+			{
+				"veggieName": "broccoli",
+				"veggieLike": false
+			}
+		]
+	},
+	"basketOrderedby": "CustomerN"
+}
